@@ -190,7 +190,5 @@ public class d21974 {
 			else
 				System.out.println("#" + (g + 1) + " 0");
 		}
-
 	}
-
 }
