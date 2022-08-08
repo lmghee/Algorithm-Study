@@ -32,7 +32,7 @@ public class d31220 {
 				for(int j = 0; j < N; j++) {
 					if(map[j][i] == 1) {
 						check = true;						
-					} else if(map[j][i] == 2 & check) {
+					} else if(map[j][i] == 2 && check) {
 						check = false;
 						cnt++;
 					}
