@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class 규영이와인영이의카드게임_이희진 {
+public class d36808 {
 	
 	static int win;
 	static int lose;
