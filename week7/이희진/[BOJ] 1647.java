@@ -3,10 +3,6 @@ import java.util.*;
 
 public class Main {
 
-	static int N, M;
-	static ArrayList<Vertex>[] adj;
-	static int[] dist;
-
 	static class Vertex implements Comparable<Vertex> {
 		int e, w;
 
@@ -22,6 +18,10 @@ public class Main {
 		}
 	}
 
+	static int N, M;
+	static ArrayList<Vertex>[] adj;
+	static int[] dist;
+	
 	public static void main(String[] args) throws Exception {
 		// TODO Auto-generated method stub
 
